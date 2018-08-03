@@ -1,4 +1,4 @@
-# javaScript基础
+# javaScript
 
 - [MD语法](https://github.com/success666/javaScript/blob/master/MD/MD.md)
 
